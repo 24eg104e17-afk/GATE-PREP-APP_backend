@@ -1,0 +1,652 @@
+[
+  {
+    "subject": "General Aptitude",
+    "topic": "Verbal: grammar, vocabulary, comprehension, narrative sequencing",
+    "type": "MCQ",
+    "marks": 1,
+    "text": "Choose the word closest in meaning to “ephemeral”.",
+    "options": [
+      "Lasting",
+      "Short-lived",
+      "Ancient",
+      "Harmful"
+    ],
+    "answer": "B",
+    "solution": "Ephemeral describes something that lasts a very short time, so “short-lived” is the closest meaning.",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "General Aptitude",
+    "topic": "Quantitative: data interpretation, numerical computation and estimation, mensuration, statistics and probability",
+    "type": "MCQ",
+    "marks": 1,
+    "text": "A 150 m long train passes a pole in 10 seconds. Its speed in km/h is:",
+    "options": [
+      "36",
+      "45",
+      "54",
+      "60"
+    ],
+    "answer": "C",
+    "solution": "Speed = 150 m / 10 s = 15 m/s. Multiply by 18/5 to convert to km/h: 15 × 3.6 = 54 km/h.",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "General Aptitude",
+    "topic": "Quantitative: data interpretation, numerical computation and estimation, mensuration, statistics and probability",
+    "type": "MCQ",
+    "marks": 2,
+    "text": "A price is increased by 20% and the new price is then reduced by 20%. The net change in price is:",
+    "options": [
+      "No change",
+      "4% decrease",
+      "4% increase",
+      "2% decrease"
+    ],
+    "answer": "B",
+    "solution": "Take the price as 100. After +20% it is 120. A 20% cut on 120 removes 24, leaving 96. The net change is −4%.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "General Aptitude",
+    "topic": "Quantitative: data interpretation, numerical computation and estimation, mensuration, statistics and probability",
+    "type": "NAT",
+    "marks": 2,
+    "text": "The average of 5 numbers is 18. When a sixth number is added, the average becomes 20. The sixth number is:",
+    "options": null,
+    "answer": "30",
+    "solution": "Sum of 5 numbers = 5 × 18 = 90. Sum of 6 numbers = 6 × 20 = 120. Sixth number = 120 − 90 = 30.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "General Aptitude",
+    "topic": "Verbal: grammar, vocabulary, comprehension, narrative sequencing",
+    "type": "MCQ",
+    "marks": 1,
+    "text": "The list of required documents ___ on the notice board.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have been"
+    ],
+    "answer": "B",
+    "solution": "The subject is the singular noun “list”, so the verb is singular: “The list of required documents is on the notice board.”",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "General Aptitude",
+    "topic": "Quantitative: data interpretation, numerical computation and estimation, mensuration, statistics and probability",
+    "type": "MCQ",
+    "marks": 1,
+    "text": "The ratio of boys to girls in a class is 3 : 2. If the class has 30 students, the number of girls is:",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "18"
+    ],
+    "answer": "B",
+    "solution": "The ratio has 3 + 2 = 5 parts, so one part is 30 / 5 = 6 students. Girls = 2 × 6 = 12.",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "General Aptitude",
+    "topic": "Analytical: logic, deduction and induction, analogy, numerical reasoning",
+    "type": "MCQ",
+    "marks": 1,
+    "text": "All engineers are logical. Some logical people are artists. Which conclusion must be true?",
+    "options": [
+      "All engineers are artists",
+      "Some engineers are artists",
+      "Some artists are logical",
+      "No engineer is an artist"
+    ],
+    "answer": "C",
+    "solution": "“Some logical people are artists” means at least one person is both logical and an artist, so some artists are logical. The other conclusions do not follow.",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "General Aptitude",
+    "topic": "Quantitative: data interpretation, numerical computation and estimation, mensuration, statistics and probability",
+    "type": "MCQ",
+    "marks": 2,
+    "text": "A can finish a job in 12 days and B can finish it in 6 days. Working together they finish it in:",
+    "options": [
+      "3 days",
+      "4 days",
+      "6 days",
+      "9 days"
+    ],
+    "answer": "B",
+    "solution": "In one day they complete 1/12 + 1/6 = 3/12 = 1/4 of the job, so the job takes 4 days.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "General Aptitude",
+    "topic": "Quantitative: data interpretation, numerical computation and estimation, mensuration, statistics and probability",
+    "type": "NAT",
+    "marks": 2,
+    "text": "An article is sold at a profit of 25% and the selling price is ₹500. The cost price in ₹ is:",
+    "options": null,
+    "answer": "400",
+    "solution": "Selling price = 1.25 × cost price. Cost price = 500 / 1.25 = 400.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "General Aptitude",
+    "topic": "Analytical: logic, deduction and induction, analogy, numerical reasoning",
+    "type": "MCQ",
+    "marks": 2,
+    "text": "The next number in the series 2, 6, 12, 20, 30, … is:",
+    "options": [
+      "40",
+      "42",
+      "44",
+      "48"
+    ],
+    "answer": "B",
+    "solution": "The terms are 1×2, 2×3, 3×4, 4×5, 5×6, so the next term is 6×7 = 42.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Digital Circuits",
+    "topic": "Number representations and combinational circuits",
+    "type": "MCQ",
+    "marks": 1,
+    "text": "What is the minimum number of 2-input NAND gates needed to build an XOR gate?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "B",
+    "solution": "Let N = (A·B)′. Then P = (A·N)′ and R = (B·N)′. Finally Y = (P·R)′ = A⊕B. This uses 4 NAND gates.",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "Networks, Signals and Systems",
+    "topic": "Continuous-time signals: Fourier series and transform, sampling",
+    "type": "MCQ",
+    "marks": 1,
+    "text": "The Fourier transform of the unit impulse δ(t) is:",
+    "options": [
+      "0",
+      "δ(ω)",
+      "1",
+      "1/jω"
+    ],
+    "answer": "C",
+    "solution": "F{δ(t)} = ∫ δ(t)·e^(−jωt) dt = e^0 = 1 by the sifting property. The spectrum is flat.",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "Analog Circuits",
+    "topic": "Op-amp circuits: summers, integrators, active filters, oscillators, compensation, phase margin",
+    "type": "MCQ",
+    "marks": 2,
+    "text": "An ideal inverting op-amp has Rin = 10 kΩ and Rf = 100 kΩ. Its voltage gain is:",
+    "options": [
+      "+10",
+      "−10",
+      "+11",
+      "−11"
+    ],
+    "answer": "B",
+    "solution": "Gain = −Rf / Rin = −100 kΩ / 10 kΩ = −10. The negative sign means the output is inverted.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Networks, Signals and Systems",
+    "topic": "Time and frequency domain analysis: RL, RC, RLC, Laplace, 2-port, wye-delta",
+    "type": "NAT",
+    "marks": 1,
+    "text": "A series RC circuit has R = 2 kΩ and C = 5 µF. Its time constant in milliseconds is:",
+    "options": null,
+    "answer": "10",
+    "solution": "τ = R·C = 2000 × 5×10⁻⁶ = 0.01 s = 10 ms.",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "Control Systems",
+    "topic": "Routh-Hurwitz and Nyquist stability criteria",
+    "type": "MSQ",
+    "marks": 2,
+    "text": "Which statements are true for a BIBO-stable LTI system?",
+    "options": [
+      "All poles lie in the left half plane",
+      "Every bounded input gives a bounded output",
+      "All poles lie in the right half plane",
+      "The impulse response is absolutely integrable"
+    ],
+    "answer": "A,B,D",
+    "solution": "An LTI system is BIBO stable if and only if its impulse response is absolutely integrable. For a rational transfer function this means all poles are in the left half plane. So A, B and D are true.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Networks, Signals and Systems",
+    "topic": "Continuous-time signals: Fourier series and transform, sampling",
+    "type": "MCQ",
+    "marks": 1,
+    "text": "A signal has a maximum frequency of 4 kHz. Its Nyquist rate is:",
+    "options": [
+      "4 kHz",
+      "6 kHz",
+      "8 kHz",
+      "16 kHz"
+    ],
+    "answer": "C",
+    "solution": "Nyquist rate = 2 × f_max = 8 kHz. Sampling below this rate causes aliasing.",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "Networks, Signals and Systems",
+    "topic": "Circuit analysis: node and mesh, network theorems, reciprocity",
+    "type": "NAT",
+    "marks": 2,
+    "text": "A 12 V source feeds a 6 Ω and a 3 Ω resistor connected in parallel. The total current from the source, in amperes, is:",
+    "options": null,
+    "answer": "6",
+    "solution": "Parallel resistance = (6×3)/(6+3) = 2 Ω. Total current = 12 V / 2 Ω = 6 A.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Digital Circuits",
+    "topic": "Sequential circuits: flip-flops, counters, FSMs, setup and hold time",
+    "type": "MCQ",
+    "marks": 1,
+    "text": "The minimum number of flip-flops needed to build a mod-10 counter is:",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "answer": "B",
+    "solution": "n flip-flops give 2^n states. 2^3 = 8 is too few and 2^4 = 16 is enough for 10 states, so 4 flip-flops are needed.",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "Engineering Mathematics",
+    "topic": "Linear Algebra",
+    "type": "MCQ",
+    "marks": 1,
+    "text": "The eigenvalues of the matrix [[4, 1], [2, 3]] are:",
+    "options": [
+      "1 and 6",
+      "2 and 5",
+      "3 and 4",
+      "−2 and −5"
+    ],
+    "answer": "B",
+    "solution": "The characteristic equation is λ² − (trace)λ + det = λ² − 7λ + 10 = 0, so λ = 2 and 5.",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "Engineering Mathematics",
+    "topic": "Calculus",
+    "type": "NAT",
+    "marks": 2,
+    "text": "The value of the integral of (3x² + 2x) dx from x = 0 to x = 2 is:",
+    "options": null,
+    "answer": "12",
+    "solution": "The antiderivative is x³ + x². At x = 2 it is 8 + 4 = 12, and at x = 0 it is 0, so the integral is 12.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Engineering Mathematics",
+    "topic": "Probability and Statistics",
+    "type": "MCQ",
+    "marks": 1,
+    "text": "Two fair coins are tossed once. The probability of getting at least one head is:",
+    "options": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "1"
+    ],
+    "answer": "C",
+    "solution": "P(no head) = 1/2 × 1/2 = 1/4. So P(at least one head) = 1 − 1/4 = 3/4.",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "Electronic Devices",
+    "topic": "P-N junction, Zener diode, BJT, MOS capacitor, MOSFET, scaling",
+    "type": "MCQ",
+    "marks": 1,
+    "text": "When a silicon p-n junction is forward biased, the width of its depletion region:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Stays constant",
+      "Becomes infinite"
+    ],
+    "answer": "B",
+    "solution": "Forward bias lowers the barrier potential and pushes carriers toward the junction, so the depletion region becomes narrower.",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "Electronic Devices",
+    "topic": "P-N junction, Zener diode, BJT, MOS capacitor, MOSFET, scaling",
+    "type": "NAT",
+    "marks": 2,
+    "text": "A BJT carries a collector current of 2 mA. Taking VT = 25 mV, its transconductance gm in mS is:",
+    "options": null,
+    "answer": "80",
+    "solution": "gm = IC / VT = 2 mA / 25 mV = 0.08 S = 80 mS.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Analog Circuits",
+    "topic": "BJT and MOSFET amplifiers: biasing, small signal analysis, frequency response, current mirrors, differential amplifiers",
+    "type": "MCQ",
+    "marks": 2,
+    "text": "A common-emitter amplifier has gm = 40 mS and a collector load RC = 5 kΩ (ignore ro). The magnitude of its voltage gain is:",
+    "options": [
+      "100",
+      "200",
+      "400",
+      "25"
+    ],
+    "answer": "B",
+    "solution": "|Av| = gm × RC = 0.04 S × 5000 Ω = 200. The output is inverted, but the magnitude is 200.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Digital Circuits",
+    "topic": "Sequential circuits: flip-flops, counters, FSMs, setup and hold time",
+    "type": "NAT",
+    "marks": 2,
+    "text": "A 4-bit binary ripple counter is clocked at 16 kHz. The frequency at the output of the last flip-flop, in kHz, is:",
+    "options": null,
+    "answer": "1",
+    "solution": "Each flip-flop divides the frequency by 2. Four stages divide by 2⁴ = 16, so the output is 16 kHz / 16 = 1 kHz.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Control Systems",
+    "topic": "Transient and steady-state analysis, frequency response",
+    "type": "MCQ",
+    "marks": 2,
+    "text": "The characteristic equation of a closed-loop system is s² + 4s + 8 = 0. Its damping ratio is:",
+    "options": [
+      "0.5",
+      "0.707",
+      "1",
+      "1.414"
+    ],
+    "answer": "B",
+    "solution": "Compare with s² + 2ζωn·s + ωn². Then ωn² = 8, so ωn = 2√2, and 2ζωn = 4. So ζ = 4 / (2 × 2√2) = 1/√2 ≈ 0.707.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Communications",
+    "topic": "Analog communications: AM, FM, spectra, superheterodyne receivers",
+    "type": "MCQ",
+    "marks": 1,
+    "text": "An AM wave has a modulation index of 0.5. The ratio of total sideband power to carrier power is:",
+    "options": [
+      "0.125",
+      "0.25",
+      "0.5",
+      "1"
+    ],
+    "answer": "A",
+    "solution": "Total sideband power = Pc × μ²/2. With μ = 0.5 the ratio is 0.25 / 2 = 0.125.",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "Communications",
+    "topic": "Information theory: entropy, source coding, mutual information, channel capacity",
+    "type": "NAT",
+    "marks": 2,
+    "text": "A channel has a bandwidth of 3 kHz and a signal-to-noise ratio of 15 (linear). Its capacity in kbps, using C = B·log2(1 + SNR), is:",
+    "options": null,
+    "answer": "12",
+    "solution": "C = 3 kHz × log2(1 + 15) = 3 kHz × log2(16) = 3 × 4 = 12 kbps.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Electromagnetics",
+    "topic": "Plane waves: reflection, refraction, polarization, skin depth",
+    "type": "MCQ",
+    "marks": 1,
+    "text": "The intrinsic (characteristic) impedance of free space is approximately:",
+    "options": [
+      "50 Ω",
+      "75 Ω",
+      "377 Ω",
+      "600 Ω"
+    ],
+    "answer": "C",
+    "solution": "η0 = √(μ0/ε0) = 120π ≈ 377 Ω.",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "Electromagnetics",
+    "topic": "Transmission lines: impedance matching, S-parameters, Smith chart",
+    "type": "NAT",
+    "marks": 2,
+    "text": "A lossless transmission line with Z0 = 50 Ω is terminated in a load of 100 Ω. The VSWR on the line is:",
+    "options": null,
+    "answer": "2",
+    "solution": "Reflection coefficient Γ = (100 − 50) / (100 + 50) = 1/3. VSWR = (1 + |Γ|) / (1 − |Γ|) = (4/3) / (2/3) = 2.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Engineering Mathematics",
+    "topic": "Linear Algebra",
+    "type": "NAT",
+    "marks": 2,
+    "text": "The determinant of the matrix [[2, 1, 0], [0, 3, 1], [1, 0, 4]] is:",
+    "options": null,
+    "answer": "25",
+    "solution": "Expand along the first row: 2·(3·4 − 1·0) − 1·(0·4 − 1·1) + 0 = 2·12 − 1·(−1) = 24 + 1 = 25.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Engineering Mathematics",
+    "topic": "Differential Equations",
+    "type": "MCQ",
+    "marks": 1,
+    "text": "The solution of dy/dx = 2y with y(0) = 1 is:",
+    "options": [
+      "e^(2x)",
+      "2e^x",
+      "e^(x/2)",
+      "1 + 2x"
+    ],
+    "answer": "A",
+    "solution": "Separate variables: dy/y = 2 dx, so ln y = 2x + C. With y(0) = 1, C = 0, so y = e^(2x).",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "Networks, Signals and Systems",
+    "topic": "Circuit analysis: node and mesh, network theorems, reciprocity",
+    "type": "NAT",
+    "marks": 2,
+    "text": "A 12 V source with a 4 Ω series resistance feeds a variable load. The maximum power delivered to the load, in watts, is:",
+    "options": null,
+    "answer": "9",
+    "solution": "Maximum power transfer occurs when RL = 4 Ω. Then I = 12 / (4 + 4) = 1.5 A and P = I²·RL = 2.25 × 4 = 9 W. Also P_max = V²/(4R) = 144/16 = 9 W.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Networks, Signals and Systems",
+    "topic": "Time and frequency domain analysis: RL, RC, RLC, Laplace, 2-port, wye-delta",
+    "type": "MCQ",
+    "marks": 1,
+    "text": "The Laplace transform of e^(−2t)·u(t) is:",
+    "options": [
+      "1/(s − 2)",
+      "1/(s + 2)",
+      "2/(s + 2)",
+      "1/(s² + 4)"
+    ],
+    "answer": "B",
+    "solution": "L{e^(−at)u(t)} = 1/(s + a). With a = 2 the transform is 1/(s + 2).",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "Networks, Signals and Systems",
+    "topic": "LTI systems: causality, stability, impulse response, convolution, frequency response",
+    "type": "MCQ",
+    "marks": 2,
+    "text": "A discrete-time LTI system has impulse response h[n] = {1, 2, 1} for n = 0, 1, 2. For the input x[n] = δ[n] + δ[n − 1], the output y[1] is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "C",
+    "solution": "y[n] = h[n] + h[n − 1] for this input. So y[1] = h[1] + h[0] = 2 + 1 = 3.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Electronic Devices",
+    "topic": "P-N junction, Zener diode, BJT, MOS capacitor, MOSFET, scaling",
+    "type": "MCQ",
+    "marks": 2,
+    "text": "An n-channel MOSFET has VTH = 1 V. At VGS = 3 V it is in saturation with ID = 2 mA. Using ID = K(VGS − VTH)², the value of K in mA/V² is:",
+    "options": [
+      "0.25",
+      "0.5",
+      "1",
+      "2"
+    ],
+    "answer": "B",
+    "solution": "VGS − VTH = 2 V, so (VGS − VTH)² = 4 V². K = ID / 4 = 2 mA / 4 = 0.5 mA/V².",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Electronic Devices",
+    "topic": "P-N junction, Zener diode, BJT, MOS capacitor, MOSFET, scaling",
+    "type": "MCQ",
+    "marks": 1,
+    "text": "A Zener diode is normally operated in the:",
+    "options": [
+      "Forward region",
+      "Reverse breakdown region",
+      "Cut-off region only",
+      "Saturation region"
+    ],
+    "answer": "B",
+    "solution": "A Zener diode is designed to hold a nearly constant voltage in reverse breakdown, which is why it is used as a voltage reference or regulator.",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "Analog Circuits",
+    "topic": "Op-amp circuits: summers, integrators, active filters, oscillators, compensation, phase margin",
+    "type": "MCQ",
+    "marks": 2,
+    "text": "A non-inverting op-amp amplifier has R1 = 1 kΩ and Rf = 9 kΩ. For an input of 0.2 V, the output is:",
+    "options": [
+      "1.8 V",
+      "2 V",
+      "−1.8 V",
+      "−2 V"
+    ],
+    "answer": "B",
+    "solution": "Gain = 1 + Rf/R1 = 1 + 9 = 10. Output = 10 × 0.2 V = 2 V, with the same polarity as the input.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Analog Circuits",
+    "topic": "Diode circuits: clipping, clamping, rectifiers",
+    "type": "NAT",
+    "marks": 2,
+    "text": "A half-wave rectifier with an ideal diode is fed by a 10 V peak sine wave. The average (DC) output voltage in volts, rounded to 2 decimal places, is:",
+    "options": null,
+    "answer": "3.18",
+    "solution": "Vdc = Vm / π = 10 / 3.1416 = 3.183 V, which rounds to 3.18 V.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Digital Circuits",
+    "topic": "Number representations and combinational circuits",
+    "type": "MCQ",
+    "marks": 2,
+    "text": "The number of 2-to-1 multiplexers needed to build an 8-to-1 multiplexer is:",
+    "options": [
+      "3",
+      "4",
+      "7",
+      "8"
+    ],
+    "answer": "C",
+    "solution": "The first level needs 4 muxes, the second level 2, and the last level 1. In total 4 + 2 + 1 = 7.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Digital Circuits",
+    "topic": "Number representations and combinational circuits",
+    "type": "NAT",
+    "marks": 1,
+    "text": "The 4-bit 2's complement representation of −5 is read as an unsigned number. Its decimal value is:",
+    "options": null,
+    "answer": "11",
+    "solution": "+5 is 0101. Invert to 1010 and add 1 to get 1011. Read as unsigned, 1011 = 8 + 2 + 1 = 11.",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "Control Systems",
+    "topic": "Transient and steady-state analysis, frequency response",
+    "type": "MCQ",
+    "marks": 2,
+    "text": "A unity feedback system has G(s) = 10 / (s(s + 2)). The steady-state error for a unit ramp input is:",
+    "options": [
+      "0.1",
+      "0.2",
+      "0.5",
+      "5"
+    ],
+    "answer": "B",
+    "solution": "The velocity error constant is Kv = lim s→0 of s·G(s) = 10/2 = 5. The ramp error is 1/Kv = 0.2.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Control Systems",
+    "topic": "Routh-Hurwitz and Nyquist stability criteria",
+    "type": "NAT",
+    "marks": 2,
+    "text": "The characteristic equation of a closed-loop system is s³ + 2s² + 3s + K = 0. The system is stable for 0 < K < ___. The upper limit of K is:",
+    "options": null,
+    "answer": "6",
+    "solution": "Routh array: the s³ row is 1, 3. The s² row is 2, K. The s¹ row first element is (2·3 − 1·K)/2 = (6 − K)/2. For stability this must be positive, so K < 6.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Communications",
+    "topic": "Analog communications: AM, FM, spectra, superheterodyne receivers",
+    "type": "MCQ",
+    "marks": 2,
+    "text": "An FM signal has a frequency deviation of 75 kHz and a message bandwidth of 15 kHz. By Carson's rule its bandwidth is:",
+    "options": [
+      "90 kHz",
+      "150 kHz",
+      "180 kHz",
+      "240 kHz"
+    ],
+    "answer": "C",
+    "solution": "Carson's rule: BW = 2(Δf + fm) = 2(75 + 15) = 180 kHz.",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "Electromagnetics",
+    "topic": "Plane waves: reflection, refraction, polarization, skin depth",
+    "type": "MCQ",
+    "marks": 2,
+    "text": "A uniform plane wave in free space has an electric field amplitude of 377 V/m. Its magnetic field amplitude in A/m is:",
+    "options": [
+      "0.5",
+      "1",
+      "2",
+      "377"
+    ],
+    "answer": "B",
+    "solution": "H = E / η0 = 377 V/m / 377 Ω = 1 A/m.",
+    "difficulty": "medium"
+  }
+]

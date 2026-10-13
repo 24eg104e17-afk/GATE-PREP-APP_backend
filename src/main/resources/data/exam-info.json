@@ -1,0 +1,48 @@
+{
+  "title": "GATE 2027 important dates",
+  "organiser": "IIT Madras",
+  "source": "official information brochure (revised 27 Aug 2026)",
+  "website": "https://gate2027.iitm.ac.in",
+  "highlights": [
+    {"label": "First exam day", "date": "2027-02-06", "after": "Started", "suffix": ""},
+    {"label": "Results", "date": "2027-03-19", "after": "Out", "suffix": ""},
+    {"label": "Late-fee registration", "date": "2026-10-05", "after": "Closed", "suffix": " left"}
+  ],
+  "dates": [
+    {"date": "2026-09-27", "title": "Regular registration closed", "note": "Fee per paper: ₹1000 (female, SC, ST, PwD) or ₹2000 (others)"},
+    {"date": "2026-10-05", "title": "Extended registration closes (with late fee)", "note": "Fee per paper: ₹1500 (female, SC, ST, PwD) or ₹2500 (others)"},
+    {"date": "2026-10-21", "title": "Last date to change category, paper or exam city, add a paper, or correct personal details", "note": "An extra fee may apply for each change"},
+    {"date": "2027-01-04", "title": "Exam city notification", "note": "You are told which city you are allotted"},
+    {"date": null, "title": "Admit card download", "note": "Date to be announced. Take a colour printout and your original photo ID"},
+    {"date": "2027-02-06", "title": "Examination", "note": "6, 7, 13, 14, 20 and 21 Feb 2027. The date and session for your paper are on your admit card"},
+    {"date": null, "title": "Answer keys and contest window", "note": "Dates are announced after the exam"},
+    {"date": "2027-03-19", "title": "Results announced", "note": "Score cards can be downloaded after this"},
+    {"date": "2027-12-31", "title": "Paid score card download ends", "note": "₹500 per paper after the free period. The score is valid for 3 years"}
+  ],
+  "fees": {
+    "regular": {"reserved": 1000, "general": 2000},
+    "late": {"reserved": 1500, "general": 2500},
+    "note": "Fees are per paper. Two papers cost twice as much. Bank charges are extra."
+  },
+  "pattern_title": "Paper pattern (EC)",
+  "pattern": [
+    "3 hours, 65 questions, 100 marks, computer-based",
+    "General Aptitude: 10 questions, 15 marks (5 of 1 mark, 5 of 2 marks)",
+    "Subject: 55 questions, 85 marks, including 13 marks of Engineering Mathematics",
+    "MCQ, MSQ and NAT questions. No partial marks",
+    "Wrong MCQ: ⅓ off (1-mark) or ⅔ off (2-mark). No negative marks for MSQ or NAT"
+  ],
+  "exam_day": [
+    "Sessions: forenoon 9:30 AM to 12:30 PM, afternoon 2:30 PM to 5:30 PM",
+    "You can take your seat 40 minutes before the start and log in 20 minutes before. No login is allowed after 15 minutes from the start",
+    "Bring a printed admit card (A4, preferably colour) and the original photo ID you used when applying",
+    "Not allowed: mobile phones (even switched off), watches, calculators, wallets, papers, Bluetooth or other electronic devices",
+    "A virtual scientific calculator is on the screen, and a scribble pad is provided for rough work"
+  ],
+  "links": [
+    {"title": "GATE 2027 website", "url": "https://gate2027.iitm.ac.in"},
+    {"title": "Information brochure (PDF)", "url": "https://gate2027.iitm.ac.in/static/doc/IB/GATE2027-IB.pdf"},
+    {"title": "EC syllabus (PDF)", "url": "https://gate2027.iitm.ac.in/static/doc/GATE2027_Syllabus/EC_GATE2027_Syllabus.pdf"}
+  ],
+  "links_note": "Past papers (2007 to 2026) can be downloaded from the Downloads tab of the official website."
+}
