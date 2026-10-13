@@ -11,3 +11,4 @@ echo Starting the backend. When you see "Started GatePrepApplication" it is read
 echo Keep this window open. Press Ctrl+C to stop.
 call mvn spring-boot:run -Dspring-boot.run.profiles=aiven
 pause
+""
