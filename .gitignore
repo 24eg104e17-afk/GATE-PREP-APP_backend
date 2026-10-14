@@ -1,7 +1,5 @@
-backend/src/main/resources/application-aiven.properties
-backend/target/
-node_modules/
-.env
 target/
-src/main/resources/application-aiven.properties
 .env
+.env.*
+!.env.example
+src/main/resources/application-aiven.properties
